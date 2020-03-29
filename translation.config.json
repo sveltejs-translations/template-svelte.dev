@@ -1,5 +1,5 @@
 {
-    "lang": "ru",
+    "lang": "tempalate",
     "repo": "https://github.com/sveltejs/svelte/site",
     "setup": "npm ci && npm run update",
     "dev": "npm run dev",
