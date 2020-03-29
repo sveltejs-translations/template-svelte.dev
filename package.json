@@ -1,6 +1,6 @@
 {
   "name": "template-svelte.dev",
-  "description": "Template of translation of the svelte.dev site",
+  "description": "Template of  the svelte.dev site translation",
   "scripts": {
     "download": "trpatcher download",
     "apply": "trpatcher apply",
